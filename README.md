@@ -14,11 +14,7 @@ Demo
 
 ### Interactive
 
-<http://euangoddard.github.io/clipboard2markdown/>
-
-### Video
-
-![Screencast](screencast.gif)
+<http://tustin2121.github.io/clipboard2markdown/>
 
 Usage
 -----
