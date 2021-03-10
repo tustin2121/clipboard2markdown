@@ -54,7 +54,7 @@
     
     {
       filter: function (node) {
-        return node.style.fontStyle === 'ITALIC';
+        return node.style.fontStyle === 'italic';
       },
       replacement: function (content) {
         return '*' + content + '*';
