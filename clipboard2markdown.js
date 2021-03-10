@@ -51,6 +51,15 @@
         return '*' + content + '*';
       }
     },
+    
+    {
+      filter: function (node) {
+        return node.style.fontStyle === 'ITALIC';
+      },
+      replacement: function (content) {
+        return '*' + content + '*';
+      }
+    },
 
     {
       filter: function (node) {
